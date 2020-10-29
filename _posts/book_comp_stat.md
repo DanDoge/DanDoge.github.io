@@ -1,8 +1,7 @@
 ---
 title: 'Notes for Computational Statistics'
 date: 2019-09-24
-categories:
-  - book-reading
+permalink: '/posts/2019/09/24/compstat'
 tags:
   - Computational Statistics
 ---
