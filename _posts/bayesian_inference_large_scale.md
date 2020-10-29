@@ -1,8 +1,7 @@
 ---
 title: 'Bayesian Inference for Large Scale Image Classification'
 date: 2019-08-17
-categories:
-  - paper-reading
+permalink: /posts/2019/08/17/bayesian/
 tags:
   - learning theory
   - statistics
