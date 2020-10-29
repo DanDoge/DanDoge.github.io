@@ -1,5 +1,5 @@
 ---
-title: Notes for Computational Statistics
+title: 'Notes for Computational Statistics'
 date: 2019-09-24
 categories:
   - book-reading

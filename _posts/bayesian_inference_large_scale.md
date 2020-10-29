@@ -1,5 +1,5 @@
 ---
-title: Bayesian Inference for Large Scale Image Classification
+title: 'Bayesian Inference for Large Scale Image Classification'
 date: 2019-08-17
 categories:
   - paper-reading
