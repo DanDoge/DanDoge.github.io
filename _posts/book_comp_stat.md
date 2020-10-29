@@ -2,9 +2,9 @@
 title: Notes for Computational Statistics
 date: 2019-09-24
 categories:
-- book-reading
+  - book-reading
 tags:
-- Computational Statistics
+  - Computational Statistics
 ---
 
 ## Notes for Computational Statistics

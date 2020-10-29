@@ -12,14 +12,26 @@ redirect_from:
 ### Education and Work
 
 - Yuanpei College, Peking University
+
+
 Sep.2016 - Jun. 2016
 B.Sc in Computer Science and Technology
+
+
 - Department of Computer Science, Hong Kong University of Science and Technology
+
+
 Feb.2019 - Jun.2019
 Visit student
+
+
 - ByteDance AIlab
+
+
 Aug.2020 - now
 Maching Learning Intern
+
+
 
 ### Research Projects
 
