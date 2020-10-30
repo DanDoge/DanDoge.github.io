@@ -3,6 +3,7 @@ title: Transformation-Grounded Image Generation Network for Novel 3D View Synthe
 date: 2019-09-09
 categories:
 - paper-reading
+permalink: /posts/2019/09/09/paper_transformation_grounded/
 tags:
 - novel view synthesis
 - CVPR

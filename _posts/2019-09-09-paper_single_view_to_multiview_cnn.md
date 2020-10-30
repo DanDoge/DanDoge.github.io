@@ -3,6 +3,7 @@ title: Single-view to Multi-view Reconstructing Unseen Views with a Convolutiona
 date: 2019-09-09
 categories:
 - paper-reading
+permalink: /posts/2019/09/09/paper_single_view_to_multiview_cnn/
 tags:
 - novel view synthesis
 - ECCV

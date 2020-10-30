@@ -3,6 +3,7 @@ title: 24/7 place recognition by view synthesis
 date: 2019-09-09
 categories:
 - paper-reading
+permalink: /posts/2019/09/09/247place_recognition/
 tags:
 - novel view synthesis
 - CVPR
