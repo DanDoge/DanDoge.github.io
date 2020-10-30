@@ -3,6 +3,7 @@ title: Few-Shot Generalization for Single-Image 3D Reconstruction via Priors
 date: 2019-10-26
 categories:
 - paper-reading
+permalink: /posts/2019/10/26/paper_fewshot_recons_w_priors/
 tags:
 - 3D reconstruction
 - fewshot learning

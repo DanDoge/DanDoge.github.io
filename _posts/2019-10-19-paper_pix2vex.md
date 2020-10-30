@@ -3,6 +3,7 @@ title: Pix2Vex Image-to-Geometry Reconstruction using a Smooth Differentiable Re
 date: 2019-10-19
 categories:
 - paper-reading
+permalink: /posts/2019/10/19/paper_pix2vex/
 tags:
 - 3D reconstruction
 - texture synthesis

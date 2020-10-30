@@ -3,6 +3,7 @@ title: HoloGAN Unsupervised Learning of 3D Representations From Natural Images
 date: 2019-10-19
 categories:
 - paper-reading
+permalink: /posts/2019/10/19/paper_holoGAN/
 tags:
 - image synthesis
 - GAN

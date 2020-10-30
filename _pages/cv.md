@@ -9,15 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-### Education and Work
+Please find a detailed version of my CV
+
+### Education and Working Experiences
 
 - Yuanpei College, Peking University
   - Sep.2016 - Jun. 2016
-  - B.Sc in Computer Science and Technology
+  - B.Sc in Computer Science and Technology (Outstanding Graduate, 44 / 247)
 - Department of Computer Science, Hong Kong University of Science and Technology
   - Feb.2019 - Jun.2019
   - Visit student
-- ByteDance AIlab
+- ByteDance AILab
   - Aug.2020 - now
   - Machine Learning Intern
 

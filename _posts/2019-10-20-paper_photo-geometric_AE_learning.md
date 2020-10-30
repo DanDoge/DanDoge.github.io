@@ -3,6 +3,7 @@ title: Photo-geometric autoencoding to learn 3D objects from unlabelled images
 date: 2019-10-20
 categories:
 - paper-reading
+permalink: /posts/2019/10/20/paper_photo_geometric_AE_learning/
 tags:
 - 3D reconstruction
 ---

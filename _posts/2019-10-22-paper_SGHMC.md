@@ -3,6 +3,7 @@ title: Stochastic Gradient Hamiltonian Monte Carlo
 date: 2019-10-22
 categories:
 - paper-reading
+permalink: /posts/2019/10/22/paper_SGHMC/
 tags:
 - statistics
 - ICLR

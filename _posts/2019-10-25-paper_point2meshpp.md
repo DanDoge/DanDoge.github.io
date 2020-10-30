@@ -3,6 +3,7 @@ title: Pixel2Mesh++ Multi-View 3D Mesh Generation via Deformation
 date: 2019-10-25
 categories:
 - paper-reading
+permalink: /posts/2019/10/25/paper_points2meshpp/
 tags:
 - 3D reconstruction
 - 3D generation

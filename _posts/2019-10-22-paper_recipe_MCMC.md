@@ -3,6 +3,7 @@ title: A Complete Recipe for Stochastic Gradient MCMC
 date: 2019-10-22
 categories:
 - paper-reading
+permalink: /posts/2019/10/22/paper_recipe_MCMC/
 tags:
 - statistics
 - NIPS

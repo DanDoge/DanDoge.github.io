@@ -3,6 +3,7 @@ title: PointFlow 3D Point Cloud Generation with Continuous Normalizing Flows
 date: 2019-10-25
 categories:
 - paper-reading
+permalink: /posts/2019/10/25/paper_pointflow/
 tags:
 - 3D reconstruction
 - 3D generation

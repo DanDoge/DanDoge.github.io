@@ -3,6 +3,7 @@ title: Texture Fields Learning Texture Representations in Function Space
 date: 2019-10-19
 categories:
 - paper-reading
+permalink: /posts/2019/10/19/paper_texture_fields/
 tags:
 - GAN
 - image synthesis

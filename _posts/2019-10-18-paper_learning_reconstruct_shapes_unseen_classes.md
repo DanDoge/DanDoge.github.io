@@ -3,6 +3,7 @@ title: Learning to Reconstruct Shapes from Unseen Classes
 date: 2019-10-18
 categories:
 - paper-reading
+permalink: /posts/2019/10/18/paper_learning_reconstruct_shapes_unseen_classes/
 tags:
 - 3D reconstruction
 - NIPS

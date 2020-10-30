@@ -3,6 +3,7 @@ title: ODE^2VAE Deep generative second order ODEs with Bayesian neural networks
 date: 2019-10-26
 categories:
 - paper-reading
+permalink: /posts/2019/10/26/paper_ode2vae/
 tags:
 - bayesian neural networks
 - NIPS

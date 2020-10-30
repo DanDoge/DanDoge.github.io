@@ -3,6 +3,7 @@ title: MarrNet 3D Shape Reconstruction via 2.5D Sketches
 date: 2019-10-18
 categories:
 - paper-reading
+permalink: /posts/2019/10/18/paper_marrnet/
 tags:
 - 3D reconstruction
 - NIPS

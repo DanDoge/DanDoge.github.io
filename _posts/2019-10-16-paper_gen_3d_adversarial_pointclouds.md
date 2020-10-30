@@ -3,6 +3,7 @@ title: Generating 3D Adversarial Point Clouds
 date: 2019-10-16
 categories:
 - paper-reading
+permalink: /posts/2019/10/16/paper_gen_3d_adversarial_pointclouds/
 tags:
 - 3D generation
 - adversarial learning

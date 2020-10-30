@@ -3,6 +3,7 @@ title: Bayesian Learning via Stochastic Gradient Langevin Dynamics
 date: 2019-10-21
 categories:
 - paper-reading
+permalink: /posts/2019/10/21/paper_SGLD/
 tags:
 - statistics
 - ICLR

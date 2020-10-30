@@ -3,6 +3,7 @@ title: Occupancy Networks Learning 3D Reconstruction in Function Space
 date: 2019-10-25
 categories:
 - paper-reading
+permalink: /posts/2019/10/25/paper_occupancy_networks/
 tags:
 - 3D reconstruction
 - CVPR

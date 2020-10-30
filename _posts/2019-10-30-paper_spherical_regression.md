@@ -3,6 +3,7 @@ title: Spherical Regression Learning Viewpoints, Surface Normals and 3D Rotation
 date: 2019-10-30
 categories:
 - paper-reading
+permalink: /posts/2019/10/30/paper_spherical_regression/
 tags:
 - pose estimation
 - CVPR

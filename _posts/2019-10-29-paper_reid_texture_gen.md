@@ -3,6 +3,7 @@ title: Re-Identification Supervised Texture Generation
 date: 2019-10-29
 categories:
 - paper-reading
+permalink: /posts/2019/10/29/paper_reid_texture_gen/
 tags:
 - texture synthesis
 - CVPR

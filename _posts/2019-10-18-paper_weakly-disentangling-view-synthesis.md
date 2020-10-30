@@ -3,6 +3,7 @@ title: Weakly-supervised Disentangling with Recurrent Transformations for 3D Vie
 date: 2019-10-18
 categories:
 - paper-reading
+permalink: /posts/2019/10/18/paper_weekly_disentangling_view_synthesis/
 tags:
 - novel view synthesis
 - NIPS

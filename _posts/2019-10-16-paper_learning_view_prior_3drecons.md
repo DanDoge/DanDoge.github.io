@@ -3,6 +3,7 @@ title: Learning View Priors for Single-view 3D Reconstruction
 date: 2019-10-16
 categories:
 - paper-reading
+permalink: /posts/2019/10/16/paper_learning_view_prior_3drecons/
 tags:
 - 3D reconstruction
 - CVPR

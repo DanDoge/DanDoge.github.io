@@ -3,6 +3,7 @@ title: Learning to Reconstruct People in Clothing from a Single RGB Camera
 date: 2019-10-30
 categories:
 - paper-reading
+permalink: /posts/2019/10/30/paper_people_clothing_singleRGB/
 tags:
 - texture synthesis
 - 3D reconstruction

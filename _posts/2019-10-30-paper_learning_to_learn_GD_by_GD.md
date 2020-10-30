@@ -3,6 +3,7 @@ title: Learning to learn by gradient descent by gradient descent
 date: 2019-10-30
 categories:
 - paper-reading
+permalink: /posts/2019/10/30/paper_learning_to_learn_GD_by_GD/
 tags:
 - learning theory
 - NIPS
