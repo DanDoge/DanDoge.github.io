@@ -5,7 +5,7 @@ categories:
 - paper-reading
 permalink: /posts/2019/10/26/paper_ode2vae/
 tags:
-- bayesian neural networks
+- learning theory
 - NIPS
 ---
 
