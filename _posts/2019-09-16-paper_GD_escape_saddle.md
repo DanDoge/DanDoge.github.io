@@ -9,7 +9,6 @@ tags:
 - NIPS
 ---
 
-## Gradient Descent Can Take Exponential Time to Escape Saddle Points
 
 time for theory papers! focus on works from Simon S. Du this time
 

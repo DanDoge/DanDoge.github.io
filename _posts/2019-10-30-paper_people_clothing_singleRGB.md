@@ -10,7 +10,6 @@ tags:
 - CVPR
 ---
 
-## Learning to Reconstruct People in Clothing from a Single RGB Camera
 
 input data & model
 - people rotating in frnt of a singla camera

@@ -9,7 +9,6 @@ tags:
 - CVPR
 ---
 
-## Learning View Priors for Single-view 3D Reconstruction
 
 tackle on single-view reconstruction
 - ambiguity in possible shapes

@@ -9,7 +9,6 @@ tags:
 - CVPR
 ---
 
-## Re-Identification Supervised Texture Generation
 
 Re-Id based texture synthesis
 - perceptual loss restricts quality of textures

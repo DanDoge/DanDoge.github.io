@@ -9,7 +9,6 @@ tags:
 - ICLR
 ---
 
-## Bayesian Learning via Stochastic Gradient Langevin Dynamics
 
 motivation
 - emerge of large-scale datasets

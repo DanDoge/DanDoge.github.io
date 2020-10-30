@@ -9,7 +9,6 @@ tags:
 - CVPR
 ---
 
-## TextureGAN Controlling Deep Image Synthesis with Texture Patches
 
 user guided image generation
 - high res. details

@@ -10,7 +10,6 @@ tags:
 - CVPR
 ---
 
-## Generating 3D Adversarial Point Clouds
 
 challenging to gen. adv. data on point clouds
 - no value to tune

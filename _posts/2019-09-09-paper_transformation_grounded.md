@@ -9,7 +9,6 @@ tags:
 - CVPR
 ---
 
-## Transformation-Grounded Image Generation Network for Novel 3D View Synthesis
 
 infer visible parts, then complete image
 - difficult task: pixel occlusion

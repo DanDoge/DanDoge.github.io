@@ -5,11 +5,10 @@ categories:
 - paper-reading
 permalink: posts/2019/08/12/paper_neural_mesh_renderer/
 tags:
-- 3D rendering
+- neural rendering
 - CVPR
 ---
 
-## Neural 3D Mesh Renderer
 
 problem: rendering 3d model is not differentiable
 - ...until now, this paper proposes an approximate gradient for rendering

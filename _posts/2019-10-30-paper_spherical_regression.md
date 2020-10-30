@@ -9,7 +9,6 @@ tags:
 - CVPR
 ---
 
-## Spherical Regression Learning Viewpoints, Surface Normals and 3D Rotations on n-Spheres
 
 regression methods on continuous problems are not popular
 - classification based approaches being more reliable

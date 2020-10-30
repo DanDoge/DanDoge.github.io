@@ -9,7 +9,6 @@ tags:
 - ECCV
 ---
 
-## View Synthesis by Appearance Flow
 
 human has the ability to recover 3D model from 2D images
 - Science 1971 paper...mental rotation

@@ -9,7 +9,6 @@ tags:
 - NIPS
 ---
 
-## A Complete Recipe for Stochastic Gradient MCMC
 
 HMC
 - sampling -> simulating a dynamic system

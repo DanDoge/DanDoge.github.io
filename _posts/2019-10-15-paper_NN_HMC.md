@@ -8,7 +8,6 @@ tags:
 - statistics
 ---
 
-## GENERALIZING HAMILTONIAN MONTE CARLO WITH NEURAL NETWORKS
 
 HMC
 - struggle to mix energy levels

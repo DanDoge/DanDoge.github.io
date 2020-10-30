@@ -9,7 +9,6 @@ tags:
 - ECCV
 ---
 
-## Learning Category-Specific Mesh Reconstruction from Image Collections
 
 human brain: previous birds in 3d ==> new birds in 3d, given its 2d view
 

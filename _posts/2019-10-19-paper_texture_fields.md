@@ -10,7 +10,6 @@ tags:
 - texture synthesis
 ---
 
-## Texture Fields Learning Texture Representations in Function Space
 
 representations of texture?
 - voxel with color?

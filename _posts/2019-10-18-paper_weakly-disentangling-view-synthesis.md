@@ -9,7 +9,6 @@ tags:
 - NIPS
 ---
 
-## Weakly-supervised Disentangling with Recurrent Transformations for 3D View Synthesis
 
 observation
 - human take time proportional to rotated angles in matching images of the same object

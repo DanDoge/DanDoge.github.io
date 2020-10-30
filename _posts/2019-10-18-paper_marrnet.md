@@ -9,7 +9,6 @@ tags:
 - NIPS
 ---
 
-## MarrNet 3D Shape Reconstruction via 2.5D Sketches
 
 pipeline
 - realworld-RGB -> 2.5D sketches -> 3D shape

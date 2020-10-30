@@ -9,7 +9,6 @@ tags:
 - NIPS
 ---
 
-## Learning to Reconstruct Shapes from Unseen Classes
 
 problem
 - NN to approx. mapping from 2d -> 2.5d -> 3d may be overparametried

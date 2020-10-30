@@ -10,7 +10,6 @@ tags:
 - ICCV
 ---
 
-## Pixel2Mesh++ Multi-View 3D Mesh Generation via Deformation
 
 input: color images, camera poses
 

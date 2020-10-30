@@ -9,7 +9,6 @@ tags:
 - NIPS
 ---
 
-## Learning to learn by gradient descent by gradient descent
 
 hand designed optimization to learned ones?
 - no free lunch: optimize in a specified field

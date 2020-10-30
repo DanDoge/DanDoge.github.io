@@ -9,7 +9,6 @@ tags:
 - CVPR
 ---
 
-## 24/7 place recognition by view synthesis
 
 synthesis novel view of street view for place recognition
 - render virtual view and depth map

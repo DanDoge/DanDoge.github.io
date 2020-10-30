@@ -9,7 +9,6 @@ tags:
 - ICCV
 ---
 
-## Revisiting Unreasonable Effectiveness of Data in Deep Learning Era
 
 Paper reading could be a leisure after days of failed experiments
 

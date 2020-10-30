@@ -3,6 +3,7 @@ title: Everybody Dance Now
 date: 2020-03-12
 categories:
 - paper-reading
+permalink: /posts/2020/03/12/paper_everybodydancenow/
 tags:
 - ICCV
 - video synthesis

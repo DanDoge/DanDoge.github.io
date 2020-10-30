@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am Huang Daoji(黄道吉), a fresh graduate from Peking University, majoring in computer science. My research interest lies in developing data-driven computer vision algorithms that bridge the gap between 2D images and 3D models. I am especially interested in neural 3D representation, texture reconstruction, and related areas.
+I am Huang Daoji(黄道吉), a fresh graduate from Peking University, majoring in computer science. My research interest lies in developing data-driven computer vision algorithms that bridge the gap between 2D images and 3D models. I am especially interested in neural 3D representation, texture reconstruction, and related areas. Please see my [past projects](https://DanDoge.github.io/projects/) for more detail.
 
 I will enroll in ETH Zurich's MSCS program in fall 2021. I am actively finding research opportunities in both universities and industry during my gap year. Below are some of my experiments, please refer to [my resume](https://DanDoge.github.io/files/CV_HuangDaoji.pdf) or [website](https://DanDoge.github.io/cv/) for more detail. I will update my brief notes on some interesting papers from time to time, see [Blog Posts](https://DanDoge.github.io/year-archive/).

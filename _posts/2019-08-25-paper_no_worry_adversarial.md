@@ -9,7 +9,6 @@ tags:
 - adversarial learning
 ---
 
-## NO Need to Worry about Adversarial Examples in Object Detection in Autonomous Vehicles
 
 perturbation of input may cause network to misclassify objects
 - while not perceptible to human eyes

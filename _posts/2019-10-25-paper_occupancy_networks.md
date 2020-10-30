@@ -6,10 +6,10 @@ categories:
 permalink: /posts/2019/10/25/paper_occupancy_networks/
 tags:
 - 3D reconstruction
+- neural implecit field
 - CVPR
 ---
 
-## Occupancy Networks Learning 3D Reconstruction in Function Space
 
 3D output representation
 - both memory efficient and efficiently inferred from data

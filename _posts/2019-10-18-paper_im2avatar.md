@@ -9,7 +9,6 @@ tags:
 - texture synthesis
 ---
 
-## Im2Avatar Colorful 3D Reconstruction from a Single Image
 
 data representation
 - jointly representing color and shape?

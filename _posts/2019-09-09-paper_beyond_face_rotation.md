@@ -9,7 +9,6 @@ tags:
 - ICCV
 ---
 
-## Beyond Face Rotation Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis
 
 deal with pose variations
 - hand-crafted features: find local distortion, metric learning

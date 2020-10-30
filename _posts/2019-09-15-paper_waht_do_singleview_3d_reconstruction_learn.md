@@ -9,7 +9,6 @@ tags:
 - CVPR
 ---
 
-## What Do Single-view 3D Reconstruction Networks Learn?
 
 
 "*We show that encoder-decoder methods are statistically indistinguishable from these baselines, thus indicating that the current state of the art in single-view object reconstruction does not actually perform reconstruction but image classification*"

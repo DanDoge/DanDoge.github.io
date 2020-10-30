@@ -2,6 +2,8 @@
 title: Example-Guided Style-Consistent Image Synthesis from Semantic Labeling
 date: 2020-03-27
 permalink: /posts/2020/03/27/example_guided_style_conssitent/
+categories:
+- paper-reading
 tags:
   - CVPR
   - image synthesis

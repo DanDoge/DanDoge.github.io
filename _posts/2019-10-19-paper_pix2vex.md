@@ -9,7 +9,6 @@ tags:
 - texture synthesis
 ---
 
-## Pix2Vex Image-to-Geometry Reconstruction using a Smooth Differentiable Renderer
 
 threefold contributions
 - C^{infty} smooth differentiable renderer

@@ -9,7 +9,6 @@ tags:
 - NIPS
 ---
 
-## Visual Object Networks Image Generation with Disentangled 3D Representation
 
 shape code -> voxel grid -> depth map + silhouette map -> 2D image
 - first step: vanilla gan

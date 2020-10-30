@@ -9,7 +9,6 @@ tags:
 - NIPS
 ---
 
-## ODE^2VAE Deep generative second order ODEs with Bayesian neural networks
 
 VAE
 - data associated with a single latent code

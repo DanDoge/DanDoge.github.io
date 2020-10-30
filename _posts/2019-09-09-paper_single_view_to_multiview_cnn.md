@@ -9,7 +9,6 @@ tags:
 - ECCV
 ---
 
-## Single-view to Multi-view Reconstructing Unseen Views with a Convolutional Network
 
 encoder-decoder network
 - trained on randered Shapenet models

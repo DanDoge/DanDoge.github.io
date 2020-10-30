@@ -10,7 +10,6 @@ tags:
 - ICCV
 ---
 
-## HoloGAN Unsupervised Learning of 3D Representations From Natural Images
 
 unsupervised learning of 3D representations from 2D images
 - view-dependent mapping from 3D to 2D

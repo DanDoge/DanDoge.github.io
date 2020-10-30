@@ -10,7 +10,6 @@ tags:
 - ICCV
 ---
 
-## PointFlow 3D Point Cloud Generation with Continuous Normalizing Flows
 
 point cloud as a sample
 - to gen. a p.c. -> gen. a dist. of dist.

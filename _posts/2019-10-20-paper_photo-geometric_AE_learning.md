@@ -8,7 +8,6 @@ tags:
 - 3D reconstruction
 ---
 
-## Photo-Geometric Autoencoding to Learn 3D Objects from Unlabelled Images
 
 learn from unlabelled data
 - minimal assumptions

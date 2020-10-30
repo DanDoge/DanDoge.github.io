@@ -9,7 +9,6 @@ tags:
 - ICLR
 ---
 
-## OBJECT DETECTORS EMERGE IN DEEP SCENE CNNS
 
 CNN works well on diff. datasets and tasks, but what does it learn?
 - this paper: CNN learns object detector in an  **unsupervised** manner when trained on scene understanding tasks.

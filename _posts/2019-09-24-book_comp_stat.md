@@ -8,7 +8,6 @@ tags:
 - statistics
 ---
 
-## Notes for Computational Statistics
 
 ### introduction
 

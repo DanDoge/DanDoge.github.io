@@ -9,7 +9,6 @@ tags:
 - ECCV
 ---
 
-## Few-Shot Viewpoint Estimation
 
 two RexNet style networks for
 - general keypoints

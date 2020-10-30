@@ -9,7 +9,6 @@ tags:
 - ICLR
 ---
 
-## GRADIENT DESCENT PROVABLY OPTIMIZES OVER-PARAMETERIZED NEURAL NETWORKS
 
 this work: two layer fc + ReLU able to achieve a globally optimal at linear rate using GD
 - observation: zero error on random label

@@ -3,11 +3,11 @@ title: list of paper on vehicle reid
 date: 2019-11-07
 categories:
 - paper-reading
+permalink: /posts/2019/11/07/paper_vehicle_reid/
 tags:
 - reidentification
 ---
 
-## list of paper on vehicle reid
 
 - Group-Sensitive Triplet Embedding for Vehicle Reidentification
     - diverse but limited data -> modeling of appearance variance of each car

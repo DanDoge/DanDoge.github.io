@@ -9,7 +9,6 @@ tags:
 - NIPS
 ---
 
-## DISN Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction
 
 limitations
 - low res.

@@ -8,7 +8,6 @@ tags:
 - compiler design
 ---
 
-## Notes for Flex and Bison
 
 needed for course: practice of compiler design
 

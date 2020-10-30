@@ -1,6 +1,7 @@
 ---
 title: StarGAN Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation
 date: 2020-03-12
+permalink: /posts/2020/03/12/paper_starGAN/
 categories:
 - paper-reading
 tags:

@@ -8,7 +8,6 @@ tags:
 - 3D reconstruction
 ---
 
-## A mininal review on outdoor 3D reconstruction
 
 I am gonna review some paper on 3D reconstruction, both to
 - know some critical technics for FYP, and

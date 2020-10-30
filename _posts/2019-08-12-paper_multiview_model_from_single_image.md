@@ -9,7 +9,6 @@ tags:
 - ECCV
 ---
 
-## Multi-view 3D Models from Single Images with a Convolutional Network
 
 model
 - input: image and desired viewpoint

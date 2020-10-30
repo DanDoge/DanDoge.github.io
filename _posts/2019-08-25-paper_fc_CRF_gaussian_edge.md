@@ -9,7 +9,6 @@ tags:
 - NIPS
 ---
 
-## Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials
 
 multiclass image segmentation
 - common approach: MAP inference in a CRF

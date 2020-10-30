@@ -10,7 +10,6 @@ tags:
 ---
 
 
-## A Large-Scale Car Dataset for Fine-Grained Categorization and Verification
 
 cars are important
 - different appearances in diff. poses

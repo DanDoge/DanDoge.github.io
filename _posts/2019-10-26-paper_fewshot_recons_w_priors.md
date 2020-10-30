@@ -10,7 +10,6 @@ tags:
 - ICCV
 ---
 
-## Few-Shot Generalization for Single-Image 3D Reconstruction via Priors
 
 category priors
 - prior shape + input image

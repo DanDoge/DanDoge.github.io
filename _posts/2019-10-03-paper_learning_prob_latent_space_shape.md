@@ -9,7 +9,6 @@ tags:
 - NIPS
 ---
 
-## Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling
 
 what makes a good generative model for 3D models?
 - varied and specific: fine details

@@ -9,7 +9,6 @@ tags:
 - novel view synthesis
 ---
 
-## View Independent Generative Adversarial Network for Novel View Synthesis
 
 encoder-decoder architecture
 - encoder: view-independent feature

@@ -9,7 +9,6 @@ tags:
 - CVPR
 ---
 
-## Learning to Generate Textures on 3D Meshes
 
 approach
 - inputs: normalized object coordinates, masks, albedo

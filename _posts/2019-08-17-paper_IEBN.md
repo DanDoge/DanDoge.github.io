@@ -8,7 +8,6 @@ tags:
 - optimization
 ---
 
-## Instance Enhancement Batch Normalization: an Adaptive Regulator of Batch Noise
 
 this paper focus on two kind of noises
 - estimation noise: diff. between mean/var/loss of this batch and the whole dataset

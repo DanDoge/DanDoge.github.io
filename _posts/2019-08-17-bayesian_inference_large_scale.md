@@ -9,7 +9,6 @@ tags:
 - statistics
 ---
 
-## Bayesian Inference for Large Scale Image Classification
 
 bayesian inference: a posterior distribution of weights of network
 - sampling weights is less prone to overfitting

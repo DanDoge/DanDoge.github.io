@@ -9,7 +9,6 @@ tags:
 - blogpost
 ---
 
-## An overview of gradient descent optimization algorithms
 
 refer to lecture notes and slides.
 

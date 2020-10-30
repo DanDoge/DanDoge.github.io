@@ -9,7 +9,6 @@ tags:
 - ICLR
 ---
 
-## Stochastic Gradient Hamiltonian Monte Carlo
 
 HMC
 - requires full gradient
