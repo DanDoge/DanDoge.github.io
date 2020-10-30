@@ -6,7 +6,6 @@ categories:
 tags:
 - ECCV
 - image synthesis
-- image colorization
 ---
 
 image pass through VGG16

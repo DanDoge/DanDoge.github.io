@@ -5,7 +5,6 @@ permalink: /posts/2020/03/27/example_guided_style_conssitent/
 tags:
   - CVPR
   - image synthesis
-  - style synthesis
 ---
 
 image synthesis from semantic label map and exemplary image

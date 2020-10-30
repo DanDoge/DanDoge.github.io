@@ -6,7 +6,6 @@ categories:
 tags:
 - image synthesis
 - NIPS
-- semantic correspondence
 ---
 
 first paper I've read on semantic correspondence

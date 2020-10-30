@@ -6,7 +6,7 @@ categories:
 tags:
 - CVPR
 - image synthesis
-- person reid
+- reidentification
 ---
 
 person reid

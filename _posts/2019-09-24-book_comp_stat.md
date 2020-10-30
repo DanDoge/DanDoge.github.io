@@ -5,7 +5,7 @@ permalink: /posts/2019/09/24/book_comp_stat/
 categories:
 - book-reading
 tags:
-- Computational Statistics
+- statistics
 ---
 
 ## Notes for Computational Statistics

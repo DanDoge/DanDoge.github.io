@@ -4,7 +4,7 @@ date: 2019-11-07
 categories:
 - paper-reading
 tags:
-- vehicle reidentification
+- reidentification
 ---
 
 ## list of paper on vehicle reid

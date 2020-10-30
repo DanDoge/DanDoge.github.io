@@ -5,8 +5,7 @@ categories:
 - paper-reading
 permalink: /posts/2019/08/25/paper_fc_CRF_gaussian_edge/
 tags:
-- image segmentation
-- conditional random field
+- statistics
 - NIPS
 ---
 

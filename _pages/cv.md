@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please find a detailed version of my CV
+Please find a detailed version of my CV in [this pdf](https://DanDoge.github.io/files/CV_HuangDaoji.pdf)
 
 ### Education and Working Experiences
 
