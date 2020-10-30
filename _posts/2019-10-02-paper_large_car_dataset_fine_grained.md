@@ -3,6 +3,7 @@ title: A Large-Scale Car Dataset for Fine-Grained Categorization and Verificatio
 date: 2019-10-02
 categories:
 - paper-reading
+permalink: /posts/2019/10/02/paper_large_car_dataset_fine_grained/
 tags:
 - dataset
 - CVPR

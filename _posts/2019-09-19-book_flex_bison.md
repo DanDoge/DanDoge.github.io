@@ -2,8 +2,10 @@
 title: Notes for Flex and Bison
 date: 2019-09-19
 permalink: /posts/2019/09/19/book_flex_bison/
+categories:
+- book-reading
 tags:
-  - compiler design
+- compiler design
 ---
 
 ## Notes for Flex and Bison
