@@ -3,6 +3,7 @@ title: Gradient Descent Can Take Exponential Time to Escape Saddle Points
 date: 2019-09-16
 categories:
 - paper-reading
+permalink: /posts/2019/09/16/paper_GD_escape_saddle/
 tags:
 - learning theory
 - NIPS

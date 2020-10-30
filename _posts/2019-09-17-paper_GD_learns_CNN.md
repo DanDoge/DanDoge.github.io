@@ -3,6 +3,7 @@ title: Gradient Descent Learns One-hidden-layer CNN Don’t be Afraid of Spuriou
 date: 2019-09-17
 categories:
 - paper-reading
+permalink: /posts/2019/09/17/paper_GD_learns_CNN/
 tags:
 - learning theory
 - ICML
