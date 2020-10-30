@@ -3,6 +3,7 @@ title: TextureGAN Controlling Deep Image Synthesis with Texture Patches
 date: 2019-10-03
 categories:
 - paper-reading
+permalink: /posts/2019/10/03/paper_texturegan/
 tags:
 - image synthesis
 - CVPR

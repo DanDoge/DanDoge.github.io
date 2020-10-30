@@ -3,6 +3,7 @@ title: Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-
 date: 2019-10-03
 categories:
 - paper-reading
+permalink: /posts/2019/10/03/paper_learning_prob_latent_space_shape/
 tags:
 - 3D generation
 - NIPS

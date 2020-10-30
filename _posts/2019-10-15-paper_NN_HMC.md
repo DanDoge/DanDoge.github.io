@@ -3,6 +3,7 @@ title: GENERALIZING HAMILTONIAN MONTE CARLO WITH NEURAL NETWORKS
 date: 2019-10-15
 categories:
 - paper-reading
+permalink: /posts/2019/10/15/paper_NN_HMC/
 tags:
 - statistics
 ---

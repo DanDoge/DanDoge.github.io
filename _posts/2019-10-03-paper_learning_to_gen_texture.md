@@ -3,6 +3,7 @@ title: Learning to Generate Textures on 3D Meshes
 date: 2019-10-03
 categories:
 - paper-reading
+permalink: /posts/2019/10/03/paper_learn_to_gen_texture/
 tags:
 - texture synthesis
 - CVPR

@@ -3,6 +3,7 @@ title: Visual Object Networks Image Generation with Disentangled 3D Representati
 date: 2019-10-03
 categories:
 - paper-reading
+permalink: /posts/2019/10/03/paper_visual_object_network/
 tags:
 - image synthesis
 - NIPS

@@ -3,6 +3,7 @@ title: A mininal review on outdoor 3D reconstruction
 date: 2019-10-12
 categories:
 - paper-reading
+permalink: /posts/2019/10/12/paper_SLAM_series/
 tags:
 - 3D reconstruction
 ---
