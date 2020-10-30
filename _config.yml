@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Huang Daoji"
   avatar           : "photo.jpeg"
-  bio              : #"Your biography for the left-hand sidebar"
+  bio              : Bridging the Gap between 2D and 3D
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/daoji-huang-9999491b9/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
