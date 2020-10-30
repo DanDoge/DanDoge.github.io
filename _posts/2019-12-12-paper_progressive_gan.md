@@ -3,6 +3,7 @@ title: PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATIO
 date: 2019-12-12
 categories:
 - paper-reading
+permalink: /posts/2019/12/12/paper_progressive_gan/
 tags:
 - ICLR
 - GAN

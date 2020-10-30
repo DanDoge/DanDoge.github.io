@@ -3,6 +3,7 @@ title: High-Resolution Image Synthesis and Semantic Manipulation with Conditiona
 date: 2019-12-13
 categories:
 - paper-reading
+permalink: /posts/2019/12/13/paper_hr_image_synthesis_condGAN/
 tags:
 - CVPR
 - image synthesis

@@ -3,6 +3,7 @@ title: A Note on the Inception Score
 date: 2019-12-12
 categories:
 - paper-reading
+permalink: /posts/2019/12/12/paper_notes_is/
 tags:
 - ICML
 - image synthesis

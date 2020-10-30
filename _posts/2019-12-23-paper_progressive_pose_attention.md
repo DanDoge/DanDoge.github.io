@@ -3,6 +3,7 @@ title: Progressive Pose Attention Transfer for Person Image Generation
 date: 2019-12-23
 categories:
 - paper-reading
+permalink: /posts/2019/12/23/paper_progressive_pose_attention/
 tags:
 - novel view synthesis
 - image synthesis

@@ -3,6 +3,7 @@ title: Structured Disentangled Representations
 date: 2019-12-01
 categories:
 - paper-reading
+permalink: /posts/2019/12/01/paper_structured_disentangled_rep/
 tags:
 - disentangle learning
 - variational autoencoders

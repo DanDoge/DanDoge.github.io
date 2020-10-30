@@ -3,6 +3,7 @@ title: DEEP DOUBLE DESCENT WHERE BIGGER MODELS AND MORE DATA HURT
 date: 2019-12-23
 categories:
 - paper-reading
+permalink: /posts/2019/12/23/paper_deep_double_descent/
 tags:
 - learning theory
 - blogpost

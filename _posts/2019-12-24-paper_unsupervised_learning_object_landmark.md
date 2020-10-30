@@ -3,6 +3,7 @@ title: Unsupervised Learning of Object Landmarks through Conditional Image Gener
 date: 2019-12-24
 categories:
 - paper-reading
+permalink: /posts/2019/12/24/paper_unsupervised_learning_object_landmark/
 tags:
 - NIPS
 - disentangle learning

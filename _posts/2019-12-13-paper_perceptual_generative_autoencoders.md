@@ -3,6 +3,7 @@ title: PERCEPTUAL GENERATIVE AUTOENCODERS
 date: 2019-12-13
 categories:
 - paper-reading
+permalink: /posts/2019/12/13/paper_perceptual_generative_autoencoders/
 tags:
 - variational autoencoders
 - ICLR

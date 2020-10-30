@@ -3,6 +3,7 @@ title: ALIGNFLOW LEARNING FROM MULTIPLE DOMAINS VIA NORMALIZING FLOWS
 date: 2019-12-05
 categories:
 - paper-reading
+permalink: /posts/2019/12/05/paper_align_flow/
 tags:
 - ICLR
 - image synthesis

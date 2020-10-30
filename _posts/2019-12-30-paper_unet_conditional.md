@@ -3,6 +3,7 @@ title: A Variational U-Net for Conditional Appearance and Shape Generation
 date: 2019-12-30
 categories:
 - paper-reading
+permalink: /posts/2019/12/30/paper_unet_conditional/
 tags:
 - CVPR
 - image synthesis

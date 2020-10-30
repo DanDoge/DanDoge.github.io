@@ -3,6 +3,7 @@ title: Disentangled Makeup Transfer with Generative Adversarial Network
 date: 2019-12-05
 categories:
 - paper-reading
+permalink: /posts/2019/12/05/paper_disentangle_makeup_transfer/
 tags:
 - CVPR
 - disentangle learning

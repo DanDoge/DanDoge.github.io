@@ -3,6 +3,7 @@ title: Disentangled Person Image Generation
 date: 2019-12-21
 categories:
 - paper-reading
+permalink: /posts/2019/12/21/paper_disentangled_person_image/
 tags:
 - CVPR
 - image synthesis

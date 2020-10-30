@@ -3,6 +3,7 @@ title: Learning Disentangled Joint Continuous and Discrete Representations
 date: 2019-12-21
 categories:
 - paper-reading
+permalink: /posts/2019/12/21/paper_disentangled_continuous_discrete/
 tags:
 - NIPS
 - disentangle learning

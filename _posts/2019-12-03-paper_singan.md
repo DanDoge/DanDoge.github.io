@@ -3,9 +3,11 @@ title: SinGAN Learning a Generative Model from a Single Natural Image
 date: 2019-12-03
 categories:
 - paper-reading
+permalink: /posts/2019/12/03/paper_singan/
 tags:
 - ICCV
 - image synthesis
+- GAN
 ---
 
 task: unconditional image synthesis from a single image

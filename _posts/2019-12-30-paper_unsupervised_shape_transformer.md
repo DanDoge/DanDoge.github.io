@@ -3,6 +3,7 @@ title: Unsupervised shape transformer for image translation and cross-domain ret
 date: 2019-12-30
 categories:
 - paper-reading
+permalink: /posts/2019/12/30/paper_unsupervised_shape_transformer/
 tags:
 - arxiv
 - image synthesis

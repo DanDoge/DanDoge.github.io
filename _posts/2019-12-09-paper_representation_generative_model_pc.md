@@ -3,6 +3,7 @@ title: Learning Representations and Generative Models for 3D Point Clouds
 date: 2019-12-09
 categories:
 - paper-reading
+permalink: /posts/2019/12/09/paper_representation_generative_model_pc/
 tags:
 - ICLR
 - 3D generation

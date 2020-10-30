@@ -3,6 +3,7 @@ title: GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equ
 date: 2019-12-13
 categories:
 - paper-reading
+permalink: /posts/2019/12/13/paper_GAN_two_timescale_update/
 tags:
 - GAN
 - NIPS

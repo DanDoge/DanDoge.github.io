@@ -3,6 +3,7 @@ title: High-dimensional dynamics of generalization error in neural networks
 date: 2019-12-23
 categories:
 - paper-reading
+permalink: /posts/2019/12/23/paper_high_dimentional_dynamics/
 tags:
 - statistics
 - learning theory

@@ -3,6 +3,7 @@ title: Probabilistic Plant Modeling via Multi-View Image-to-Image Translation
 date: 2020-02-24
 categories:
 - paper-reading
+permalink: /posts/2019/02/24/paper_prob_plant_modeling_i2i_trans/
 tags:
 - CVPR
 - 3D reconstruction
