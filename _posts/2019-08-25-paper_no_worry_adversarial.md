@@ -3,6 +3,7 @@ title: NO Need to Worry about Adversarial Examples in Object Detection in Autono
 date: 2019-08-25
 categories:
 - paper-reading
+permalink: /posts/2019/08/25/paper_no_worry_adversarial/
 tags:
 - object detection
 - adversarial learning

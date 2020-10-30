@@ -3,6 +3,7 @@ title: View Independent Generative Adversarial Network for Novel View Synthesis
 date: 2019-08-26
 categories:
 - paper-reading
+permalink: /posts/2019/08/26/paper_vigan/
 tags:
 - GAN
 - novel view synthesis

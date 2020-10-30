@@ -3,6 +3,7 @@ title: Revisiting Unreasonable Effectiveness of Data in Deep Learning Era
 date: 2019-09-05
 categories:
 - paper-reading
+permalink: /posts/2019/09/05/paper_revisit_data_in_DLera/
 tags:
 - learning theory
 - ICCV
