@@ -3,6 +3,7 @@ title: What Do Single-view 3D Reconstruction Networks Learn?
 date: 2019-09-15
 categories:
 - paper-reading
+permalink: /posts/2019/09/15/paper_what_do_single_view_3d_reconstruction_learn/
 tags:
 - 3D reconstruction
 - CVPR

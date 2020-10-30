@@ -3,6 +3,7 @@ title: View Synthesis by Appearance Flow
 date: 2019-09-11
 categories:
 - paper-reading
+permalink: /posts/2019/09/11/paper_view_synthesis_appearance_flow/
 tags:
 - novel view synthesis
 - ECCV

@@ -3,6 +3,7 @@ title: DISN Deep Implicit Surface Network for High-quality Single-view 3D Recons
 date: 2019-09-15
 categories:
 - paper-reading
+permalink: /posts/2019/09/15/paper_disn/
 tags:
 - 3D reconstruction
 - NIPS
