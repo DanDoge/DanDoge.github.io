@@ -3,6 +3,7 @@ title: Few-Shot Viewpoint Estimation
 date: 2019-08-21
 categories:
 - paper-reading
+permalink: /posts/2019/08/21/paper_fewshot_viewpoint_estimation/
 tags:
 - pose estimation
 - ECCV

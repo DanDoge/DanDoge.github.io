@@ -1,8 +1,9 @@
 ---
-title: Neural 3D Mesh Renderer
+title: 'Neural 3D Mesh Renderer'
 date: 2019-08-12
 categories:
 - paper-reading
+permalink: posts/2019/08/12/paper_neural_mesh_renderer/
 tags:
 - 3D rendering
 - CVPR

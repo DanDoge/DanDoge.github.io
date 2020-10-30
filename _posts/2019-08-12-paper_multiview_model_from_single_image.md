@@ -1,8 +1,9 @@
 ---
-title: Multi-view 3D Models from Single Images with a Convolutional Network
+title: 'Multi-view 3D Models from Single Images with a Convolutional Network'
 date: 2019-08-12
 categories:
 - paper-reading
+permalink: /posts/2019/08/12/paper_multiview_model_from_single_image/
 tags:
 - 3D reconstruction
 - ECCV

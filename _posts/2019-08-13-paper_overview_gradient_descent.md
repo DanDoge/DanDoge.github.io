@@ -1,8 +1,9 @@
 ---
-title: An overview of gradient descent optimization algorithms
+title: 'An overview of gradient descent optimization algorithms'
 date: 2019-08-13
 categories:
 - paper-reading
+permalink: posts/2019/08/13/paper_overview_gradient_descent/
 tags:
 - optimization
 - blogpost

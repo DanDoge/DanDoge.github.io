@@ -3,6 +3,7 @@ title: Instance Enhancement Batch Normalization an Adaptive Regulator of Batch N
 date: 2019-08-17
 categories:
 - paper-reading
+permalink: /posts/2019/08/17/paper_IEBN/
 tags:
 - optimization
 ---

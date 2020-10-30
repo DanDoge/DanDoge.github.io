@@ -1,8 +1,9 @@
 ---
-title: Learning Category-Specific Mesh Reconstruction from Image Collections
+title: 'Learning Category-Specific Mesh Reconstruction from Image Collections'
 date: 2019-08-09
 categories:
 - paper-reading
+permalink: /posts/2019/08/09/paper_mesh_reconstruction_from_image_collections/
 tags:
 - 3D reconstruction
 - ECCV

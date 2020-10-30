@@ -1,8 +1,9 @@
 ---
-title: OBJECT DETECTORS EMERGE IN DEEP SCENE CNNS
+title: 'OBJECT DETECTORS EMERGE IN DEEP SCENE CNNS'
 date: 2019-08-09
 categories:
 - paper-reading
+permalink: /posts/2019/08/09/paper_object_detectors_emerge/
 tags:
 - object detection
 - ICLR
