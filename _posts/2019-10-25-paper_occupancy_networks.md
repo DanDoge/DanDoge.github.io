@@ -6,7 +6,7 @@ categories:
 permalink: /posts/2019/10/25/paper_occupancy_networks/
 tags:
 - 3D reconstruction
-- neural implecit field
+- neural implicit field
 - CVPR
 ---
 
