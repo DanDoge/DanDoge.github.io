@@ -3,6 +3,7 @@ title: Automatic Unpaired Shape Deformation Transfer
 date: 2020-02-11
 categories:
 - paper-reading
+permalink: /posts/2020/02/11/paper_automaticshape_deformation/
 tags:
 - SIGGRAPH
 - 3D reconstruction

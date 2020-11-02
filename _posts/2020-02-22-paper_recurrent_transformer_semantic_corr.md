@@ -3,6 +3,7 @@ title: Recurrent Transformer Networks for Semantic Correspondence
 date: 2020-02-22
 categories:
 - paper-reading
+permalink: /posts/2020/02/22/paper_recurrent_transformer_semantic_corr/
 tags:
 - image synthesis
 - NIPS

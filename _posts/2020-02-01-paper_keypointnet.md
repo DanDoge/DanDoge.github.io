@@ -3,6 +3,7 @@ title: Discovery of Latent 3D Keypoints via End-to-end Geometric Reasoning
 date: 2020-02-01
 categories:
 - paper-reading
+permalink: /posts/2020/02/01/paper_keypointnet/
 tags:
 - NIPS
 - 3D keypoints

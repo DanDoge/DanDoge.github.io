@@ -3,6 +3,7 @@ title: RotationNet Joint Object Categorization and Pose Estimation Using Multivi
 date: 2020-02-24
 categories:
 - paper-reading
+permalink: /posts/2020/02/24/paper_rotationnet/
 tags:
 - CVPR
 - 3D categorization

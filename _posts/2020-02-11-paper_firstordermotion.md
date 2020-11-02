@@ -3,6 +3,7 @@ title: First Order Motion Model for Image Animation
 date: 2020-02-11
 categories:
 - paper-reading
+permalink: /posts/2020/02/11/paper_first_ordermotion/
 tags:
 - NIPS
 - image synthesis

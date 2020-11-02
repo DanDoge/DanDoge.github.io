@@ -3,6 +3,7 @@ title: BeautyGlow On-Demand Makeup Transfer Framework with Reversible Generative
 date: 2020-02-22
 categories:
 - paper-reading
+permalink: /posts/2020/02/22/paper_beautyglow/
 tags:
 - image synthesis
 - CVPR

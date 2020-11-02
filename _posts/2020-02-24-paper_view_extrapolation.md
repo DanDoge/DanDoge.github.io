@@ -3,6 +3,7 @@ title: View Extrapolation of Human Body from a Single Image
 date: 2020-02-24
 categories:
 - paper-reading
+permalink: /posts/2020/02/24/paper_view_extrapolation/
 tags:
 - CVPR
 - novel view synthesis
