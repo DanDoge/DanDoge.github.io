@@ -6,7 +6,7 @@ categories:
 permalink: /posts/2019/11/22/paper_distentangle_in_VAE/
 tags:
 - disentangle learning
-- variational autoencoders
+- VAE
 - ICML
 ---
 

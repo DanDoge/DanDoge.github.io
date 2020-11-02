@@ -6,7 +6,7 @@ categories:
 permalink: /posts/2019/10/26/paper_fewshot_recons_w_priors/
 tags:
 - 3D reconstruction
-- fewshot learning
+- few shot learning
 - ICCV
 ---
 

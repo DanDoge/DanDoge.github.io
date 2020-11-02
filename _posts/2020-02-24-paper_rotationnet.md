@@ -6,7 +6,6 @@ categories:
 permalink: /posts/2020/02/24/paper_rotationnet/
 tags:
 - CVPR
-- 3D categorization
 - pose estimation
 ---
 

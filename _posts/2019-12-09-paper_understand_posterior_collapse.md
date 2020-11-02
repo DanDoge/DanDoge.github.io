@@ -6,7 +6,7 @@ categories:
 permalink: /posts/2019/12/09/paper_understand_posterior_collapse/
 tags:
 - ICLR
-- variational autoencoders
+- VAE
 ---
 
 postetior collapse

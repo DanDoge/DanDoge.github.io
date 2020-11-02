@@ -7,7 +7,7 @@ permalink: /posts/2019/12/21/paper_disentangled_continuous_discrete/
 tags:
 - NIPS
 - disentangle learning
-- variational autoencoders
+- VAE
 ---
 
 goal: disentanglement on continuous and discrete variables

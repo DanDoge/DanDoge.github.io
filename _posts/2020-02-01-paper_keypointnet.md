@@ -6,7 +6,6 @@ categories:
 permalink: /posts/2020/02/01/paper_keypointnet/
 tags:
 - NIPS
-- 3D keypoints
 ---
 
 task: given a single image, to extract 3D keypoints **optimized for downstream tasks**

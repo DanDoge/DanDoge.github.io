@@ -5,7 +5,7 @@ categories:
 - paper-reading
 permalink: /posts/2019/12/13/paper_perceptual_generative_autoencoders/
 tags:
-- variational autoencoders
+- VAE
 - ICLR
 ---
 

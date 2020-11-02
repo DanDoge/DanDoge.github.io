@@ -6,7 +6,7 @@ categories:
 permalink: /posts/2019/12/01/paper_rethinking_disentanglement/
 tags:
 - disentangle learning
-- variational autoencoders
+- VAE
 - ICLR
 ---
 

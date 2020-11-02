@@ -7,7 +7,7 @@ categories:
 tags:
   - CVPR
   - 3D reconstruction
-  - neural impliclt field
+  - neural implicit field
 ---
 
 one neural field -> mixture of multiple neural fields
