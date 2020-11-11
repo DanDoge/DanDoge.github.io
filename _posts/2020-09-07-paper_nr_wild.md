@@ -14,3 +14,4 @@ scene under varying appearance
 - introducing appearance vector and semantic mask
   - seperate vp, appearance conditions and transient objects (auto decoder framework)
   - pretrain encoder for stable training, jointly finetune both networks
+  - train a seperate semantic labeling network
