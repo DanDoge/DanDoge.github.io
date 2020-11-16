@@ -5,7 +5,7 @@ categories:
 - paper-reading
 permalink: /posts/2019/10/02/paper_large_car_dataset_fine_grained/
 tags:
-- dataset
+- reidentification
 - CVPR
 ---
 

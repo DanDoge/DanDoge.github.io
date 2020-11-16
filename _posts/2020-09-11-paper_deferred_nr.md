@@ -5,7 +5,7 @@ permalink: /posts/2020/09/11/paper_deferred_nr/
 categories:
 - paper-reading
 tags:
-  - siggraph
+  - SIGGRAPH
   - neural rendering
 ---
 
