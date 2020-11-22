@@ -6,7 +6,7 @@ categories:
 - paper-reading
 tags:
   - NIPS
-  - neural implicit fields
+  - neural implicit field
 ---
 
 meta learning of sdf performs on par with autoencoder ones

@@ -6,7 +6,7 @@ categories:
 - paper-reading
 tags:
   - arxiv
-  - neural implicit fields
+  - neural implicit field
   - reflection modeling
 ---
 
