@@ -6,7 +6,7 @@ categories:
 - paper-reading
 tags:
   - SIGGRAPH
-  - neural implicit repersentation
+  - neural implicit representation
   - novel view synthesis
 ---
 
