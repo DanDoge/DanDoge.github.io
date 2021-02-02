@@ -10,8 +10,7 @@ tags:
   - 3D reconstruction
 ---
 
-image degradation from unpaired data
-- conditional normalizing flows
-- latent variable + a gaussian noise
-- a domain invariant feature extractor
-- refer to paper for more proof...
+well... lot of paper from facebook
+- and easily indentifiable -> double blind review still work?
+- image triplet -> global animation code -> 3d feature grid -> coarse sampling
+  - and then sample a uniform segment like NeRF
