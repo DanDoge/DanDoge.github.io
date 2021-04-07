@@ -28,10 +28,14 @@ We consider end-to-end training of NeRF, since in its coarse-fine sampling frame
 
 ##### Depth regression
 
-[to be filled]
+A simple intuition to make NeRF end-to-end trainable is to replace the coarse network with a depth "oracle"(as in [citation needed]). We tried several attempts of regression/classification networks, whichever turns out to be not effective. We believe that direct depth supervision is necessary in this setting to help network figure out depth ambiguities.
 
 ##### Gaussian prior
 
 The only thing that prohibits end-to-end training of NeRF is the sampling stage, where the opacity distribution CDF gets inverted. We observe that as training progresses, the distribution gets sharper and sharper and can be approximated by a Gaussian distribution. We have not yet achieved significant better performance against baseline under various conditions(hiddensize, sample size, number of layers, etc.)
 
-##### shared body/head
+##### Shared body/head
+
+A step backwards from end-to-end training is to jointly train these two networks. An observation is that by concat coarse estimation of opacity and color with fine one, one can achieve slightly better results than baseline NeRF, and such performance gain is much more when network capacity is limited. From this observation, we tried to let both network share a rendering head, which is dedicated to render color and opacity from latent features of coarse/fine network. This does not yield better results, which may be from the fact that coarse and fine network has different input domain, and thus hard to align the output latent spaces.
+
+A similar approach is to let networks share a feature extractor whose output is refined by coarse and fine head. This approach is under active experiment.

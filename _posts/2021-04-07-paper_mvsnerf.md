@@ -10,7 +10,7 @@ tags:
   - neural rendering
 ---
 
-nvs from a single image
-- seems like strong prior needs to be learned
-- image -> feature + depth(sampled in disparity) -> color and sigma -> render under novel viewpoint, ray marching
-- L1 and SSIM losses
+train a generalizable nerf
+- generalize with as few as three images
+- images -> image[0] as pivot image -> cost volume from variance in feature -> 3dconv -> neural encoding volume -> rendering
+  - pixel color also used (and trained) for rendering
