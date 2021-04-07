@@ -9,7 +9,7 @@ tags:
   - neural rendering
 ---
 
-depth oracle
-- deal with ambiguity: filtered depth, unified ro and rd, classification
-- spae warping: does NeRF also do the same? NDC space?
-- it seems that GROUNDTRUTH depth is required in this approach, waiting to see code...
+texture mapping and reverse: 3D point <-> 2D uv coord
+- cycle loss
+- learnable texture
+  - F(x, d) = F_tex(F_uv(x), d)
