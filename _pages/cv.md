@@ -34,7 +34,7 @@ Please find a detailed version of my CV in [this pdf](https://DanDoge.github.io/
   - generate 3D models' texture from synthesized images given single view input
 - Few-shot object Detection
   - assisted senior RA in reproducing few-shot learning baselines
-- (*ongoing*) Expetiment on NeRF
+- (*ongoing*) Experiments on NeRF
   - please refer to [project page](https://DanDoge.github.io/projects/) for more details
 
 
